@@ -1,0 +1,6 @@
+piso de B,% de listas vazias,itens por lista,restaurantes distintos indicados,% das indicações na metade de menor movimento,precisão de B no teste (%)
+100% do limiar,25.7,2.1,146,7.7,76.0
+75% do limiar,12.7,3.0,189,10.8,65.8
+50% do limiar  <- app,8.9,3.8,227,14.2,55.5
+25% do limiar,5.7,4.3,255,18.3,43.6
+0% do limiar,4.2,4.4,272,21.9,

@@ -1,0 +1,9 @@
+,casos,HitRate@1 (%),MRR
+Gradient boosting,5472.000,67.471,0.813
+Random forest,5472.000,66.557,0.804
+Árvore de decisão,5472.000,64.918,0.794
+Regressão logística,5472.000,60.088,0.769
+KNN (k=50),5472.000,58.004,0.752
+Mais perto (distância),5472.000,40.040,0.621
+Popularidade (check-ins até a data),5472.000,40.662,0.603
+Chute: recomenda tudo,5472.000,20.000,0.457

@@ -1,0 +1,14 @@
+# Versões testadas. O app precisa da MESMA versão do scikit-learn usada para treinar no notebook 03a.
+numpy==2.5.3
+pandas==3.0.5
+scikit-learn==1.9.1
+scipy==1.18.1
+matplotlib==3.11.2
+joblib==1.6.0
+pyarrow==26.0.1
+streamlit==1.67.0
+
+# só para rodar notebooks e testes (o deploy do app não precisa)
+ipykernel==7.4.0
+nbconvert==7.17.2
+pytest==9.1.1

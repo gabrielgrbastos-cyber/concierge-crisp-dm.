@@ -1,0 +1,5 @@
+,Precisão,Recall,Falso positivo (% do total),Taxa de FP (FP ÷ negativos)
+100% do limiar (0.44),76.031,35.709,2.251,2.814
+75% do limiar (0.33),65.750,46.729,4.868,6.086
+50% do limiar (0.22),55.493,62.774,10.069,12.587
+25% do limiar (0.11),43.591,81.597,21.118,26.398
